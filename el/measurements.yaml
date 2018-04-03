@@ -2,7 +2,7 @@ bicepsCircumference: 'Biceps circumference' # TODO
 bustSpan: 'Bust span' # TODO
 centerBackNeckToWaist: 'Centerback neck to waist' # TODO
 chestCircumference: 'Chest circumference' # TODO
-headCircumference: 'Head circumference' # TODO
+headCircumference: 'Περίμετρος κεφαλής' 
 highBust: 'High bust' # TODO
 highPointShoulderToBust: 'High point shoulder to bust' # TODO
 hipsCircumference: 'Hips circumference' # TODO
