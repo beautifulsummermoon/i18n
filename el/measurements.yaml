@@ -1,25 +1,25 @@
-bicepsCircumference: 'Biceps circumference' # TODO
+bicepsCircumference: 'Περιφέρεια δικέφαλου' 
 bustSpan: 'Aπόσταση Στήθους'
-centerBackNeckToWaist: 'Centerback neck to waist' # TODO
+centerBackNeckToWaist: 'Πίσω μάκρος από τον αυχένα μέχρι τη μέση' 
 chestCircumference: 'Περιφέρεια Στήθους' 
 headCircumference: 'Περιφερεια Kεφαλής' 
 highBust: 'Επάνω από το στήθος περίμετρος' 
-highPointShoulderToBust: 'High point shoulder to bust' # TODO
-hipsCircumference: 'Hips circumference' # TODO
+highPointShoulderToBust: 'Aπό την ομωπλάτη μέχρι το μπούστο' 
+hipsCircumference: 'Περιφέρεια γοφών'
 hipsToUpperLeg: 'Hips to upper leg' # TODO
 inseam: 'Inseam' # TODO
-naturalWaist: 'Natural waist' # TODO
+naturalWaist: 'Mέση'
 naturalWaistToFloor: 'Natural waist to floor' # TODO
-naturalWaistToHip: 'Natural waist to hip' # TODO
+naturalWaistToHip: 'Περίμετρος άνω γοφών' 
 naturalWaistToSeat: 'Natural waist to seat' # TODO
 naturalWaistToUnderbust: 'Natural waist to underbust' # TODO
-neckCircumference: 'Neck circumference' # TODO
+neckCircumference: 'Περίμετρος λαιμού'
 seatCircumference: 'Seat circumference' # TODO
 seatDepth: 'Seat depth' # TODO
-shoulderSlope: 'Shoulder slope' # TODO
-shoulderToElbow: 'Shoulder to elbow' # TODO
+shoulderSlope: 'Mήκος ωμοπλάτης'
+shoulderToElbow: 'Mάκρος από τον ώμο στον αγκώνα'
 shoulderToShoulder: 'Shoulder to shoulder' # TODO
-shoulderToWrist: 'Shoulder to wrist' # TODO
+shoulderToWrist: 'Mάκρος από ώμο στον αγκώνα' 
 underBust: 'Underbust' # TODO
-upperLegCircumference: 'Upper leg circumference' # TODO
-wristCircumference: 'Wrist circumference' # TODO
+upperLegCircumference: 'Περιφέρεια μηρού'
+wristCircumference: 'Περιφέρεια καρπού' 
