@@ -1,9 +1,9 @@
 bicepsCircumference: 'Biceps circumference' # TODO
-bustSpan: 'Bust span' # TODO
+bustSpan: 'Aπόσταση Στήθους'
 centerBackNeckToWaist: 'Centerback neck to waist' # TODO
-chestCircumference: 'Chest circumference' # TODO
-headCircumference: 'Head circumference' # TODO
-highBust: 'High bust' # TODO
+chestCircumference: 'Περιφέρεια Στήθους' 
+headCircumference: 'Περιφερεια Kεφαλής' 
+highBust: 'Επάνω από το στήθος περίμετρος' 
 highPointShoulderToBust: 'High point shoulder to bust' # TODO
 hipsCircumference: 'Hips circumference' # TODO
 hipsToUpperLeg: 'Hips to upper leg' # TODO
