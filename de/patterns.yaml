@@ -1,9 +1,9 @@
 aaron:
     title: 'Aaron A-Shirt' # TODO
-    description: 'Aaron is an athletic shirt or tank top.' # TODO
+    description: 'Aaron ist ein athletisches Shirt or Traegerhemd.' # TODO
 benjamin:
     title: 'Benjamin Bow Tie' # TODO
-    description: 'Benjamin is a bow tie pattern with four different shape options.' # TODO
+    description: 'Benjamin ist ein Schnittmuster fuer eine Fliege mit vier verschiedenen Formoptionen.' # TODO
 bent:
     title: 'Bent Body Block' # TODO
     description: 'This two-part sleeve block is the basis of our coat and jacket patterns.' # TODO
@@ -12,7 +12,7 @@ brian:
     description: 'Brian is a basic body block for men.' # TODO
 bruce:
     title: 'Bruce Boxer Briefs' # TODO
-    description: 'Bruce are comfortable yet stylish boxer briefs.' # TODO
+    description: 'Bruce sind bequeme aber stilvolle Boxerhosen.' # TODO
 carlita:
     title: 'Carlita Coat' # TODO
     description: 'The womenswear version of our Carlton coat, aka Sherlock Holmes coat.' # TODO
